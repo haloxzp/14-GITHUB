@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"1");
+    
+    NSLog(@"今天热死了，大家去喝点水吧");
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
